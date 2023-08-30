@@ -22,10 +22,13 @@ h1{
 h2{
 	text-align:center;	
 }
-.player{
+.player_one,.player_two{
 	background-color:rgb(255,255,255);
-/* 	pading:300px; */
-	margin:px
-	border-radius:5px;
+	boder-radius:5px;
+	padding:100px;
+}
+.player{
+	background-color:white;
+	border-radius:10px;
 	border:1px solid black
 }
